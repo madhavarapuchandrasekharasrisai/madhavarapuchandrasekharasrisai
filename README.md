@@ -2,7 +2,7 @@
 👋 Hi, I’m Madhavarapu Chandra Sekhara Sri Sai<br>👀 I’m interested in DSA<br>🌱 I’m currently learning Full Stack Wed Development<br>💞️  I’m currently studying Bachelor of Technology in Data Science<br>📫 How to reach me  madhavarapuchandrasekhara@gmail.com<br>
 <br>🚀 Whether it's developing web applications, implementing machine learning algorithms, or crafting data visualizations, I thrive on the challenge of turning ideas into reality<br> Each project I undertake is an opportunity to learn, grow, and make a meaningful impact.
 
-💡 Here are some of the projects where I have applied my skills learnt so far:
+💡 Here are some of the projects where I have applied my skills learnt so far:<br>
     CHINTU THE MONKEY : It is a game which is developed using scratch in which the money who lost this food ask's help to find it. LINK : https://scratch.mit.edu/projects/1044827930
 
 ## 🌐 Socials:
