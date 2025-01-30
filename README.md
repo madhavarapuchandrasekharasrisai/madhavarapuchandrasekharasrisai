@@ -3,7 +3,7 @@
 <br>🚀 Whether it's developing web applications, implementing machine learning algorithms, or crafting data visualizations, I thrive on the challenge of turning ideas into reality<br> Each project I undertake is an opportunity to learn, grow, and make a meaningful impact.
 
 💡 Here are some of the projects where I have applied my skills learnt so far:
-# CHINTU THE MONKEY : It is a game which is developed using scratch in which the money who lost this food ask's help to find it. LINK : https://scratch.mit.edu/projects/1044827930
+    CHINTU THE MONKEY : It is a game which is developed using scratch in which the money who lost this food ask's help to find it. LINK : https://scratch.mit.edu/projects/1044827930
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ chandrasekharasrisaimadhavarapu) 
